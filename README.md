@@ -47,6 +47,7 @@ Customer repeat behavior is strong:
 
 > Average number of orders per user exceeds 13, indicating high loyalty and recurring content consumption.
 
+![Overview](screenshots/key_metrics.png)
 ---
 
 ## 3️⃣ Time Dynamics
@@ -61,6 +62,7 @@ AOV fluctuates between 450–650 ₽ without sharp spikes, suggesting stable pri
 **Revenue growth driver:**  
 Increase in order volume rather than increase in AOV.
 
+![Overview](screenshots/time_dynamics.png)
 ---
 
 ## 4️⃣ Revenue Structure by Event Type
