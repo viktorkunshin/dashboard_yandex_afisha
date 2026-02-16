@@ -1,11 +1,9 @@
-# Yandex Afisha Sales Analysis  
-Author: Viktor Kunshin  
-Date: January 21, 2026  
+## 🔗 Live Dashboard
+https://datalens.yandex/i96kvymtwxlw2
 
 ---
 
-## 🔗 Live Dashboard
-https://datalens.yandex/i96kvymtwxlw2
+![Overview](screenshots/overview.png)
 
 ---
 
